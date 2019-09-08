@@ -1,5 +1,5 @@
 # Assignment1
-   1  password
+    1  password
     2  passwd
     3  pwd
     4  passwd
