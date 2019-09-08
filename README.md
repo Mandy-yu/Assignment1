@@ -1,5 +1,5 @@
 # Assignment1
-    1  password
+   1  password
     2  passwd
     3  pwd
     4  passwd
@@ -83,3 +83,48 @@
    82  ls
    83  LL
    84  ll
+   85  a=b
+   86  echo a
+   87  echo "a"
+   88  history
+   89  passwd
+   90  vim ~/.bashrc
+   91  pwd
+   92  ls
+   93  cd bin
+   94  mkdir bin
+   95  ls
+   96  vim ~/.bashrc
+   97  ls
+   98  cd ..
+   99  ls
+  100  cd ~/.bin
+  101  vim ~/.bashrc
+  102  ls
+  103  echo $PATH
+  104  ls
+  105  pwd
+  106  cd ..
+  107  cd ~/.bash.orig
+  108  cp ~/.bashrc ~/.bashrc.orig
+  109  ls ll
+  110  ll
+  111  ls -alk
+  112  vim ~/.bashrc
+  113  pwd
+  114  ls
+  115  ls history
+  116  pwd
+  117  ls
+  118  ls -la
+  119  ll history
+  120  rm ~/history.txt
+  121  ls
+  122  ls ~/history
+  123  esearch -db pubmed -query "RNA crosslink" |   efetch -format abstract > pubmed.090419.v1.txt
+  124  vi pubmed.090419.v1.txt
+  125  head pubmed.090419.v1.txt
+  126  vi pubmed.090419.v1.txt
+  127  head pubmed.090419.v1.txt
+  128  wordcloud_cli --text pubmed.090419.v1.txt --imagefile wordcloud.png
+  129  history
